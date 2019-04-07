@@ -1,73 +1,170 @@
 #index, #portfolio, #contact {
-	background-color: #e2dbd1;
+    /* background-color: #e2dbd1; */
 }
 #titleTwo {
-	margin-top: 30px;
-	margin-bottom: 70px;
-	font-weight: bolder;
-	font-family: 'Quicksand', sans-serif;
-	letter-spacing: 1.5px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    font-weight: bolder;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+    letter-spacing: 1.5px;
 }
 .nav-link {
-	text-transform: uppercase;
-	font-family: 'Quicksand', sans-serif;
-	margin-left: 10px;
-	margin-right: 10px;
+    text-transform: uppercase;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+    font-weight: bold;
+    color: #456e91;
+    font-style: normal;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 h2 {
-	font-weight: bold;
-	text-transform: uppercase;
-	letter-spacing: 2.5px;
-	margin-top: 5px;
+    font-weight: bolder;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-style: normal;
+    text-decoration: none;
+    margin-top: 5px;
+    font-size: 23px;
+	color: #294168;
+	margin-left: 10px;
 }
 #formOpt {
-	margin-bottom: 25px;
+    margin-bottom: 25px;
 }
 #submit {
-	font-family: 'Quicksand', sans-serif;
-	border: solid 1px black;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+    border: solid 1px black;
 }
 label {
-	font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
 }
-.container {
-	margin-bottom: 38px;
-}
+
 .caption {
-	margin-top: 10px;
-	text-align: center;
-	font-weight: bold;
-	font-family: 'Quicksand', sans-serif;
-	letter-spacing: 1.5px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+    letter-spacing: 1.5px;
 }
 #ghub {
-	margin-top: 0;
+    margin-top: 0;
 }
 #bio {
 	width: 100%;
-	font-family: 'Quicksand', sans-serif;
+	letter-spacing: 1.5px;
+justify-content: center;
+text-align: center;
+padding: 0px 100px 0 100px;
+	font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+	
 }
-#footer {
-	padding-left: 5px;
-	padding-right: 5px;
-	padding-top: 0;
-	padding-bottom: 0;
+
+#image {
+	max-width: 100%;
+	height: auto;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+#imageTitle {
+	max-width: 100%;
+	height: auto;
+	width: 100%;
+	justify-content: center;
+	display: flex;
+	margin-top: 50px;
+
+}
+/* #footer {
+    padding: 0px 5px 50px 5px;
+    padding-bottom: 0;
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    justify-content: center;
+} */
+.fixed-bottom {
+    background-image: url("assets/images/pattern.jpg")
 }
 #icon {
-	color: black;
-	padding: 1px;
-	margin-top: 10px;
+    color: #294168;
+    padding: 1px;
+    margin-top: 10px;
 }
 #ftext {
-	font-size: 8pt;
-	padding-left: 5px;
-	font-family: 'Quicksand', sans-serif;
+    font-size: 8pt;
+    padding-left: 5px;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
 }
 #emailIcon {
-	padding: 5px;
+    padding: 5px;
 }
 #directEmail {
-	font-family: 'Quicksand', sans-serif;
-	letter-spacing: 1px;
-	margin-top: 30px;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+    letter-spacing: 1px;
+    margin-top: 30px;
 }
+
+#bigFooter {
+	margin-top: 70px;
+}
+
+
+#footer{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 11px;
+    color: #294168;
+    letter-spacing: 1px;
+}
+
+.panel-body {
+    margin-top: 50px;
+    border: 1px solid #294168;
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+    justify-content: center;
+    color: #294168;
+    text-transform: uppercase;
+
+}
+h5 {
+    text-align: center;
+    justify-content: center;
+    font-size: 17px;
+    color: #294168;
+    letter-spacing: 3.5px;
+    text-transform: uppercase; 
+    font-weight: bold; 
+}
+h6 {
+    text-align: center;
+    justify-content: center;
+    font-size: 13px;
+    color: #456e91;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 15px;
+}
+/* .hover11 figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover11 figure:hover img {
+	opacity: .5;
+}
+
+
+#pImage {
+    height: 20%;
+} */

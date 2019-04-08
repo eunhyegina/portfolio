@@ -1,173 +1,196 @@
-#index, #portfolio, #contact {
-    /* background-color: #e2dbd1; */
-}
 #titleTwo {
-    margin-top: 30px;
-    margin-bottom: 70px;
-    font-weight: bolder;
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    letter-spacing: 1.5px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+  font-weight: bolder;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  letter-spacing: 1.5px;
 }
+
 .nav-link {
-    text-transform: uppercase;
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    font-weight: bold;
-    color: #456e91;
-    font-style: normal;
-    text-decoration: none;
-    letter-spacing: 2px;
-    font-size: 12px;
-    margin-left: 10px;
-    margin-right: 10px;
+  text-transform: uppercase;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  font-weight: bold;
+  color: #456e91;
+  font-style: normal;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
+
 #secondNav {
-    text-transform: uppercase;
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    font-weight: bold;
-    color: #456e91;
-    font-style: normal;
-    text-decoration: none;
-    letter-spacing: 2px;
-    font-size: 12px;
+  text-transform: uppercase;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  font-weight: bold;
+  color: #456e91;
+  font-style: normal;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 12px;
 
 }
+
 h2 {
-    font-weight: bolder;
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-    font-style: normal;
-    text-decoration: none;
-    margin-top: 5px;
-    font-size: 23px;
-	color: #294168;
-	margin-left: 10px;
-}
-#formOpt {
-    margin-bottom: 25px;
-}
-#submit {
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    border: solid 1px black;
-}
-label {
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+  font-weight: bolder;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-style: normal;
+  text-decoration: none;
+  margin-top: 5px;
+  font-size: 23px;
+  color: #294168;
+  margin-left: 10px;
 }
 
+#formOpt {
+  margin-bottom: 25px;
+}
+
+#submit {
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  border: solid 1px black;
+}
+
+label {
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+}
+
+#caption,
 .caption {
-    margin-top: 10px;
-    text-align: center;
-    font-weight: bold;
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    letter-spacing: 1.5px;
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  color: #294168;
+  font-style: normal;
+  text-decoration: none;
+  letter-spacing: 2.5px;
+  font-size: 18px;
+  margin-bottom: 3.5px;
+
 }
+
 #ghub {
-    margin-top: 0;
+  margin-top: 0;
 }
+
 #bio {
-	width: 100%;
-	letter-spacing: 1.5px;
-justify-content: center;
-text-align: center;
-padding: 0px 100px 0 100px;
-	font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-	
+  width: 100%;
+  letter-spacing: 1.5px;
+  justify-content: center;
+  text-align: center;
+  padding: 0px 100px 0 100px;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+
 }
 
 #image {
-	max-width: 100%;
-	height: auto;
-	width: 100%;
-	margin-bottom: 50px;
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  margin-bottom: 50px;
 }
 
 #imageTitle {
-	max-width: 100%;
-	height: auto;
-	width: 100%;
-	justify-content: center;
-	display: flex;
-	margin-top: 50px;
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
 
 }
 
 .fixed-bottom {
-    background-image: url("assets/images/pattern.jpg")
+  background-image: url("assets/images/pattern.jpg")
 }
+
 #icon {
-    color: #294168;
-    padding: 1px;
+  color: #294168;
+  padding: 1px;
 }
+
 #ftext {
-    font-size: 8pt;
-    padding-left: 5px;
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
+  font-size: 8pt;
+  padding-left: 5px;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
 }
+
 #emailIcon {
-    padding: 5px;
+  padding: 5px;
 }
+
 #directEmail {
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    letter-spacing: 1px;
-    margin-top: 30px;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  letter-spacing: 1px;
+  margin-top: 30px;
 }
 
 #bigFooter {
-    margin-top: 70px;
-    padding: 10px;
+  margin-top: 70px;
+  padding: 10px;
 }
 
 
-#footer{
-    text-align: center;
-    justify-content: center;
-    font-family: 'Montserrat',Georgia,"Times New Roman",serif;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 11px;
-    color: #294168;
-    letter-spacing: 1px;
+#footer {
+  text-align: center;
+  justify-content: center;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 11px;
+  color: #294168;
+  letter-spacing: 1px;
 }
 
 .panel-body {
-    margin-top: 50px;
-    border: 1px solid #294168;
-    padding: 50px 0px 0px 0px;
-    text-align: center;
-    justify-content: center;
-    color: #294168;
-    text-transform: uppercase;
+  margin-top: 50px;
+  border: 1px solid #294168;
+  padding: 50px 0px 0px 0px;
+  text-align: center;
+  justify-content: center;
+  color: #294168;
+  text-transform: uppercase;
 
 }
+
 h5 {
-    text-align: center;
-    justify-content: center;
-    font-size: 17px;
-    color: #294168;
-    letter-spacing: 3.5px;
-    text-transform: uppercase; 
-    font-weight: bold; 
+  text-align: center;
+  justify-content: center;
+  font-size: 17px;
+  color: #294168;
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+  font-weight: bold;
 }
+
 h6 {
-    text-align: center;
-    justify-content: center;
-    font-size: 13px;
-    color: #456e91;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    font-weight: bold;
-    margin-top: 15px;
-}
-/* .hover11 figure img {
-	opacity: 1;
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
-}
-.hover11 figure:hover img {
-	opacity: .5;
+  text-align: center;
+  justify-content: center;
+  font-size: 13px;
+  color: #456e91;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 15px;
 }
 
+#portImage {
+  margin-top: 70px;
+  border: 1px dotted #294168;
+}
 
-#pImage {
-    height: 20%;
-} */
+#gitLink {
+  justify-content: center;
+  text-align: center;
+  font-family: 'Montserrat', Georgia, "Times New Roman", serif;
+  color: #456e91;
+  font-style: normal;
+  font-weight: bolder;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 13px;
+}
